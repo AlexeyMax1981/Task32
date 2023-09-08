@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea/
 Rush32.iml
+.iml
 
 ### Eclipse ###
 .apt_generated
